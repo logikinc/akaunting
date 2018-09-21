@@ -4,17 +4,17 @@
 
 Akaunting is a free, open source and online accounting software designed for small businesses and freelancers. It is built with modern technologies such as Laravel, Bootstrap, jQuery, RESTful API etc. Thanks to its modular structure, Akaunting provides an awesome App Store for users and developers.
 
-* [Home](https://akaunting.com) - The house of Akaunting
-* [Blog](https://akaunting.com/blog) - Get the latest news
-* [Forum](https://akaunting.com/forum) - Join the community
-* [Documentation](https://akaunting.com/docs) - Learn more about Akaunting
+- [Home](https://akaunting.com) - The house of Akaunting
+- [Blog](https://akaunting.com/blog) - Get the latest news
+- [Forum](https://akaunting.com/forum) - Join the community
+- [Documentation](https://akaunting.com/docs) - Learn more about Akaunting
 
 ## Requirements
 
-* PHP 5.6.4 or higher
-* Database (eg: MySQL, PostgreSQL, SQLite)
-* Web Server (eg: Apache, Nginx, IIS)
-* [Other libraries](https://akaunting.com/docs/requirements)
+- PHP 5.6.4 or higher
+- Database (eg: MySQL, PostgreSQL, SQLite)
+- Web Server (eg: Apache, Nginx, IIS)
+- [Other libraries](https://akaunting.com/docs/requirements)
 
 ## Framework
 
@@ -22,11 +22,11 @@ Akaunting uses [Laravel](http://laravel.com), the best existing PHP framework, a
 
 ## Installation
 
-  * Install [Composer](https://getcomposer.org/download)
-  * Download the [repository](https://github.com/akaunting/akaunting/archive/master.zip) and unzip into your server
-  * Open and point your command line to the directory you unzipped Akaunting
-  * Run the following command: `composer install`
-  * Finally, launch the [installer](https://akaunting.com/docs/installation)
+- Install [Composer](https://getcomposer.org/download)
+- Download the [repository](https://github.com/akaunting/akaunting/archive/master.zip) and unzip into your server
+- Open and point your command line to the directory you unzipped Akaunting
+- Run the following command: `composer install`
+- Finally, launch the [installer](https://akaunting.com/docs/installation)
 
 ## Docker
 
@@ -47,7 +47,8 @@ docker exec -it CONTAINER_ID /bin/sh
 ```
 
 ## docker-compose examples
-In the `docker/` folder you'll find some example file to run the image with several databases. 
+
+In the `docker/` folder you'll find some example file to run the image with several databases.
 
 ## Contributing
 
